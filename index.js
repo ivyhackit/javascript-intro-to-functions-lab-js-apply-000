@@ -10,3 +10,8 @@ function logShout(string) {
   var usethis = string.toUpperCase();
   console.log(usethis);
 }
+
+function logWhisper(string){
+  var yup = string.toLowerCase();
+  console.log(yup);
+}
